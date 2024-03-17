@@ -1,4 +1,4 @@
-# ARC_101_Pytroch_Step_by_Step
+# ARC_101_Pytorch_Step_by_Step
 _________________________________________
 Deep Learning with PyTorch
 Deep Learning with PyTorch involves utilizing PyTorch, a Python-based scientific computing package, for neural network implementation. PyTorch serves as a replacement for NumPy, leveraging GPU power and accelerators, and offers an automatic differentiation library crucial for neural network development
